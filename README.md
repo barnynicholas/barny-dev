@@ -1,4 +1,4 @@
-# barny.dev 🖤
+# barny.dev 
 
 My developer portfolio — a black & white site that personalises itself with live GitHub data. No build tools, no dependencies.
 
